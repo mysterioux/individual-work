@@ -7,3 +7,5 @@
 *Managing student repositories
 *GitHub Classroom
 *Permissions
+*Exercises
+*Automated Test
